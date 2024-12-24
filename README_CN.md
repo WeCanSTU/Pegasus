@@ -62,5 +62,5 @@ Pegasus 天马座核心板以其高性能、低功耗和丰富的接口设计，
 
 - **论坛**: [Pegasus天马座](https://forum.umetav.cn/t/pegasus)  
   - **开放时间**: 北京时间每日早上8点到凌晨1点。
-- **QQ群**: 123456789
+- **QQ群**: 786239575
 - **技术支持邮箱**: [tech@umetav.cn](mailto:tech@umetav.cn)
